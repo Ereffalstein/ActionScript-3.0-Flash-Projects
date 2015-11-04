@@ -237,7 +237,7 @@ public var ed:SimpleButton;
                     trace(ed.x);
 					this.posite = pos;
 			        trace('Index = ' + posite);
-					// ничего не изменилось, просто выходим из функции-сеттера
+					// nothing to do just sign out from function
 						if (posite == 1){
 								ovalP.x = oval.x;
 								ovalP.y = oval.y;
